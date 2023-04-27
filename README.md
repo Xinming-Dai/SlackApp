@@ -1,7 +1,7 @@
 # SlackApp
 
 1. Data:
-  a. 怎么获得衣服的详细信息呢？要每次都从网页上抓取吗？Cons: data maybe outdated
+	a. 怎么获得衣服的详细信息呢？要每次都从网页上抓取吗？Cons: data maybe outdated
 	b. 或者是我提前抓取下来，然后把所有信息保存下来？
 	c. Automatically collect the data. 
 	d. Store data.
